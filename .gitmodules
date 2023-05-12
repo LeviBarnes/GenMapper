@@ -1,0 +1,3 @@
+[submodule "geodata/US-Cities-Database"]
+	path = geodata/US-Cities-Database
+	url = https://github.com/kelvins/US-Cities-Database.git
