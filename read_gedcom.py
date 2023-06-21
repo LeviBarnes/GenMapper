@@ -30,3 +30,6 @@ def read_gedcom(file_path):
         if individual:
             individuals.append(individual)
     return individuals
+
+if __name__ == "__main__":
+    read_gedcom("C:\\Users\\lbarnes\\Documents\\GitHub\\GenMapper\\Joseph Chandler Files-20230621T003941Z-001\\Joseph Chandler Files\\Chandler GEDcom Files - February 17, 2018\\Lydia Sparks and Jesse Tomlin_2018-02-17.ged")
